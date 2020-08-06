@@ -1,0 +1,10 @@
+body {
+  background-image: linear-gradient(to bottom right, #f00, rgb(228, 166, 228), #58a);
+  text-align: center;
+}
+
+img {
+  width: 100vw;
+  margin-bottom: 60px;
+  box-shadow: 8px 15px 13px #333;
+}
