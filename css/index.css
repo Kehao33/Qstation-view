@@ -8,3 +8,8 @@ img {
   margin-bottom: 60px;
   box-shadow: 8px 15px 13px #333;
 }
+
+img.rem_vp{
+  width: 300px;
+  height: auto;
+}
